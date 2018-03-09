@@ -1,0 +1,11 @@
+/Users/jardine/Projects/FitnessFrog/App/bin/Debug/netcoreapp2.0/App.deps.json
+/Users/jardine/Projects/FitnessFrog/App/bin/Debug/netcoreapp2.0/App.runtimeconfig.json
+/Users/jardine/Projects/FitnessFrog/App/bin/Debug/netcoreapp2.0/App.runtimeconfig.dev.json
+/Users/jardine/Projects/FitnessFrog/App/bin/Debug/netcoreapp2.0/App.dll
+/Users/jardine/Projects/FitnessFrog/App/bin/Debug/netcoreapp2.0/App.pdb
+/Users/jardine/Projects/FitnessFrog/App/obj/Debug/netcoreapp2.0/App.csprojResolveAssemblyReference.cache
+/Users/jardine/Projects/FitnessFrog/App/obj/Debug/netcoreapp2.0/App.csproj.CoreCompileInputs.cache
+/Users/jardine/Projects/FitnessFrog/App/obj/Debug/netcoreapp2.0/App.AssemblyInfoInputs.cache
+/Users/jardine/Projects/FitnessFrog/App/obj/Debug/netcoreapp2.0/App.AssemblyInfo.cs
+/Users/jardine/Projects/FitnessFrog/App/obj/Debug/netcoreapp2.0/App.dll
+/Users/jardine/Projects/FitnessFrog/App/obj/Debug/netcoreapp2.0/App.pdb
